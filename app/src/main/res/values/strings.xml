@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TSDMH_HML_7S21_P1P4</string>
+    <string name="p1t1">Caulculadora pasando el resultado</string>
+    <string name="lbl1p1">Ingrese el primer numero</string>
+    <string name="lbl2p1">Ingrese el segundo numero</string>
+    <string name="h1p1">Aqui el primer numero</string>
+    <string name="h2p1">Aqui el segundo numero</string>
+    <string name="btn1p1">Sumar</string>
+    <string name="btn2p1">Restar</string>
+    <string name="btn3p1">Dividir</string>
+    <string name="btn4p1">Multiplicar</string>
+    <string name="btn5p1">Potencias</string>
+    <string name="btn6p1">Potencias n</string>
+    <string name="btn7p1">Raiz cuadrada</string>
+
+</resources>
